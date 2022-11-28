@@ -1,0 +1,10 @@
+C:\Users\muffyn\Documents\GitHub\op00a1\op00a1\op00a1\bin\Debug\op00a1.exe.config
+C:\Users\muffyn\Documents\GitHub\op00a1\op00a1\op00a1\bin\Debug\op00a1.exe
+C:\Users\muffyn\Documents\GitHub\op00a1\op00a1\op00a1\bin\Debug\op00a1.pdb
+C:\Users\muffyn\Documents\GitHub\op00a1\op00a1\op00a1\obj\Debug\op00a1.csproj.AssemblyReference.cache
+C:\Users\muffyn\Documents\GitHub\op00a1\op00a1\op00a1\obj\Debug\op00a1.csproj.SuggestedBindingRedirects.cache
+C:\Users\muffyn\Documents\GitHub\op00a1\op00a1\op00a1\obj\Debug\op00a1.Properties.Resources.resources
+C:\Users\muffyn\Documents\GitHub\op00a1\op00a1\op00a1\obj\Debug\op00a1.csproj.GenerateResource.cache
+C:\Users\muffyn\Documents\GitHub\op00a1\op00a1\op00a1\obj\Debug\op00a1.csproj.CoreCompileInputs.cache
+C:\Users\muffyn\Documents\GitHub\op00a1\op00a1\op00a1\obj\Debug\op00a1.exe
+C:\Users\muffyn\Documents\GitHub\op00a1\op00a1\op00a1\obj\Debug\op00a1.pdb
